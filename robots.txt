@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-gujobg.nuansa138.online/sitemap.xml
